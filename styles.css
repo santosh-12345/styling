@@ -1,0 +1,19 @@
+
+
+
+
+
+/* Style for Title and description */
+.title{
+        margin: 5px 5px;
+        color: CADETBLUE;
+        font-weight: bold;
+        font-size: 1.1em;
+}
+
+.description{
+        margin: 5px 5px;
+        color: rgba(0, 0, 0, 0.7);
+	font-size: 1.1em;
+}
+
