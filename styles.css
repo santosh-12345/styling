@@ -4,16 +4,6 @@
 
 
 /* Style for Title and description */
-.title{
-        margin: 5px 5px;
-        color: GREEN;
-        font-weight: bold;
-        font-size: 1.4em;
+.google-visualization-table-th.gradient {
+   background:#35b69f!important;
 }
-
-.description{
-        margin: 5px 5px;
-        color: rgba(0, 0, 0, 0.7);
-	font-size: 1.4em;
-}
-
